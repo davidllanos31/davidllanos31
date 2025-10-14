@@ -102,16 +102,24 @@ const juanDavid = {
 <div align="center">
 
 <a href="https://github.com/davidllanos31">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidllanos31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidllanos31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="David's GitHub Stats"/>
 </a>
 <a href="https://github.com/davidllanos31">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidllanos31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidllanos31&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7f50&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="David's Streak Stats"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/davidllanos31">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidllanos31&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones%20en%20GitHub" alt="Contribution Graph" />
 </div>
 
 ---
@@ -324,21 +332,39 @@ class ExperienciaProfesional:
 
 <div align="center">
 
-### 🔥 Análisis de Contribuciones
+### 🔥 Contribuciones Recientes
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidllanos31&theme=github_dark" alt="Profile Details" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidllanos31&theme=github_dark" width="48%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidllanos31&theme=github_dark" width="48%" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidllanos31&theme=github_dark" width="48%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidllanos31&theme=github_dark&utcOffset=-5" width="48%" alt="Productive Time"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidllanos31&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&custom_title=Mis%20Contribuciones%20en%20GitHub" alt="Contribution Graph" width="95%"/>
 
 <br/><br/>
+
+### � Resumen de Actividad
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidllanos31&theme=tokyonight" alt="Profile Details"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidllanos31&theme=tokyonight" alt="Repos per Language"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidllanos31&theme=tokyonight" alt="Most Commit Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidllanos31&theme=tokyonight" alt="Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidllanos31&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🐍 Contribuciones Animadas
 
@@ -347,6 +373,12 @@ class ExperienciaProfesional:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
+
+### � Cita Inspiradora
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 </div>
 
@@ -359,7 +391,7 @@ class ExperienciaProfesional:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-llanos-pedraza-a4706628a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidllanosp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidllanos31)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.llanosp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
 
 </div>
 
@@ -369,7 +401,7 @@ class ExperienciaProfesional:
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20%C3%BAnico%20modo%20de%20hacer%20un%20gran%20trabajo%20es%20amar%20lo%20que%20haces&author=Steve%20Jobs)
   
 </div>
 
@@ -383,7 +415,6 @@ ubicacion: Lima, Perú 🇵🇪
 rol: Software Engineer
 email: juandavidllanosp@gmail.com
 linkedin: linkedin.com/in/juan-david-llanos-pedraza-a4706628a/
-instagram: @david.llanosp
 experiencia: 2 años
 disponibilidad: Abierto a colaboraciones y proyectos interesantes
 ```
@@ -400,6 +431,13 @@ disponibilidad: Abierto a colaboraciones y proyectos interesantes
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
+
+---
+
+## 🎨 Mis Contribuciones
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 

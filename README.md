@@ -153,19 +153,213 @@ class ExperienciaProfesional:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/davidllanos31/proyecto-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/davidllanos31/proyecto-2)
+### 💼 Proyectos Profesionales
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/TechDocAPI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=TechDocAPI&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="TechDocAPI"/>
+      </a>
+      <br/>
+      <p><strong>🚢 TechDocAPI</strong></p>
+      <p>Sistema API RESTful para gestión de documentación técnica de sistemas instalados en embarcaciones marítimas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/DollarToyProyectoG3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=DollarToyProyectoG3&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DollarToy"/>
+      </a>
+      <br/>
+      <p><strong>🛍️ Dollar Toy Project</strong></p>
+      <p>Proyecto final - Sistema de gestión para tienda de juguetes con carrito de compras y panel administrativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/Index-Pcs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Index-Pcs&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Index-Pcs"/>
+      </a>
+      <br/>
+      <p><strong>🏢 Index Peru Controls</strong></p>
+      <p>Portal de acceso para usuarios y clientes de Peru Controls System con enlaces a servicios y recursos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/nodejs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=nodejs&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Node.js"/>
+      </a>
+      <br/>
+      <p><strong>🟢 Node.js Projects</strong></p>
+      <p>Colección de proyectos y prácticas con Node.js, Express y APIs RESTful.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Proyectos Creativos & Frontend
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/Carta_Romantica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Carta_Romantica&theme=radical&hide_border=true&bg_color=0d1117" alt="Carta Romántica"/>
+      </a>
+      <br/>
+      <p><strong>💌 Carta Romántica</strong></p>
+      <p>Proyecto web interactivo con animaciones CSS y diseño romántico.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/floresamarillas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=floresamarillas&theme=radical&hide_border=true&bg_color=0d1117" alt="Flores Amarillas"/>
+      </a>
+      <br/>
+      <p><strong>🌻 Flores Amarillas</strong></p>
+      <p>Animación web interactiva con diseño floral y efectos visuales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/carta_mama">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=carta_mama&theme=radical&hide_border=true&bg_color=0d1117" alt="Carta Mamá"/>
+      </a>
+      <br/>
+      <p><strong>💝 Carta para Mamá</strong></p>
+      <p>Una carta especial desarrollada con JavaScript, HTML y CSS con animaciones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/davidllanos31/Pagina-Web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Pagina-Web&theme=radical&hide_border=true&bg_color=0d1117" alt="Página Web"/>
+      </a>
+      <br/>
+      <p><strong>🌐 Página Web Portfolio</strong></p>
+      <p>Portfolio personal desarrollado con HTML y CSS responsive design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### ☕ Proyectos Backend & Java
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/davidllanos31/java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=java&theme=merko&hide_border=true&bg_color=0a0f0d" alt="Java Spring Boot"/>
+      </a>
+      <br/>
+      <p><strong>☕ Spring Boot</strong></p>
+      <p>Implementaciones con Spring Boot</p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/davidllanos31/java2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=java2&theme=merko&hide_border=true&bg_color=0a0f0d" alt="Java Docker"/>
+      </a>
+      <br/>
+      <p><strong>🐳 Java + Docker</strong></p>
+      <p>Containerización con Docker</p>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/davidllanos31/Grupo3JQuery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Grupo3JQuery&theme=merko&hide_border=true&bg_color=0a0f0d" alt="jQuery Project"/>
+      </a>
+      <br/>
+      <p><strong>📚 jQuery Project</strong></p>
+      <p>Proyecto con jQuery y JavaScript</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/davidllanos31?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_Todos_los_Repositorios-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los repositorios"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📈 Actividad de Contribuciones
+## 📈 Actividad de Desarrollo
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake-dark.svg)
-  
+
+### 🔥 Racha de Contribuciones & Actividad Reciente
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidllanos31&theme=react-dark&hide_border=true&area=true&custom_title=Contribuciones%20en%20el%20%C3%BAltimo%20a%C3%B1o" alt="Contribution Graph" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Mapa de Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+### 📅 Estadísticas Detalladas de Contribuciones
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidllanos31&theme=tokyonight" alt="Contribution Details" width="95%"/>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidllanos31&theme=tokyonight" alt="Top Languages by Repo"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidllanos31&theme=tokyonight" alt="Top Languages by Commit"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidllanos31&theme=tokyonight" alt="Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidllanos31&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---

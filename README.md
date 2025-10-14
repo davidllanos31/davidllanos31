@@ -97,9 +97,27 @@ const juanDavid = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## � Actividad de Desarrollo
 
 <div align="center">
+
+### 🔥 Análisis de Contribuciones
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidllanos31&theme=github_dark" alt="Profile Details" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidllanos31&theme=github_dark" width="48%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidllanos31&theme=github_dark" width="48%" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidllanos31&theme=github_dark" width="48%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidllanos31&theme=github_dark&utcOffset=-5" width="48%" alt="Productive Time"/>
+
+<br/><br/>
+
+### 📊 Estadísticas Generales
 
 <a href="https://github.com/davidllanos31">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidllanos31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -108,10 +126,20 @@ const juanDavid = {
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidllanos31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+### 🐍 Contribuciones Animadas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -352,44 +380,6 @@ class ExperienciaProfesional:
 
 ---
 
-## 🌐 Conéctate Conmigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-llanos-pedraza-a4706628a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidllanosp@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidllanos31)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.llanosp/)
-
-</div>
-
----
-
-## 💡 Frase que me Inspira
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  
-</div>
-
----
-
-## 📫 Información de Contacto
-
-```yaml
-nombre: Juan David Llanos Pedraza
-ubicacion: Lima, Perú 🇵🇪
-rol: Software Engineer
-email: juandavidllanosp@gmail.com
-linkedin: linkedin.com/in/juan-david-llanos-pedraza-a4706628a/
-instagram: @david.llanosp
-experiencia: 2 años
-disponibilidad: Abierto a colaboraciones y proyectos interesantes
-```
-
----
-
 ## 📚 Actualmente Aprendiendo
 
 <div align="center">
@@ -398,6 +388,20 @@ disponibilidad: Abierto a colaboraciones y proyectos interesantes
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Conéctate Conmigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-llanos-pedraza-a4706628a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidllanosp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidllanos31)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.llanosp/)
 
 </div>
 

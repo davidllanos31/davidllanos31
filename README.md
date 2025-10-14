@@ -97,7 +97,7 @@ const juanDavid = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+
 
 <div align="center">
 
@@ -153,6 +153,8 @@ class ExperienciaProfesional:
 ```
 
 ---
+
+## 📈 Actividad de Desarrollo
 
 ## 🎯 Proyectos Destacados
 
@@ -320,7 +322,7 @@ class ExperienciaProfesional:
 
 ---
 
-## 📈 Actividad de Desarrollo
+
 
 <div align="center">
 
@@ -352,7 +354,7 @@ class ExperienciaProfesional:
 
 ---
 
-## 🌐 Conéctate Conmigo
+
 
 <div align="center">
   
@@ -366,6 +368,8 @@ class ExperienciaProfesional:
 ---
 
 ## 💡 Frase que me Inspira
+
+## 🌐 Conéctate Conmigo
 
 <div align="center">
   

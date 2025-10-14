@@ -100,28 +100,26 @@ const juanDavid = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-### 🎯 Resumen General
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=davidllanos31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3&icon_color=bf91f3" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidllanos31&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/davidllanos31">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidllanos31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="David's GitHub Stats"/>
+</a>
+<a href="https://github.com/davidllanos31">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidllanos31&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7f50&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="David's Streak Stats"/>
+</a>
 
-### 💻 Lenguajes Más Usados
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3&langs_count=8" alt="Top Languages" width="45%"/>
+<div align="center">
+  <a href="https://github.com/davidllanos31">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidllanos31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
-### 📈 Gráfico de Actividad
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidllanos31&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area=true&area_color=bf91f3" alt="Contribution Graph" width="95%"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidllanos31&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Contribuciones%20en%20GitHub" alt="Contribution Graph" />
 </div>
 
 ---
@@ -368,7 +366,7 @@ class ExperienciaProfesional:
 
 <br/>
 
-### 🐍 Mapa de Contribuciones
+### 🐍 Contribuciones Animadas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake-dark.svg">
@@ -378,9 +376,9 @@ class ExperienciaProfesional:
 
 <br/>
 
-### 💡 Datos Interesantes
+### � Cita Inspiradora
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 </div>
 

@@ -16,11 +16,11 @@
 
 ---
 
-## ‍ Sobre Mí
+## 👨‍💻 Sobre Mí
 
 ```javascript
 const juanDavid = {
-    ubicacion: "Lima, Perú ",
+    ubicacion: "Lima, Perú 🇵🇪",
     rol: "Software Engineer",
     experiencia: "2 años construyendo soluciones escalables",
     enfoque: ["Full Stack Development", "Data Analytics", "Backend Architecture"],
@@ -28,22 +28,22 @@ const juanDavid = {
                  "soluciones de análisis de datos. Especializado en arquitecturas MVC y " +
                  "visualización de datos. Me encanta aprender nuevas tecnologías y enfrentar " +
                  "desafíos complejos que impulsen la innovación digital.",
-    filosofia: "El código limpio es código que cuenta una historia ",
+    filosofia: "El código limpio es código que cuenta una historia 📖",
     objetivos: ["Contribuir a proyectos open source", "Dominar arquitecturas cloud", 
                 "Crear impacto con tecnología"],
     estudiandoActualmente: ["Clean Architecture", "Microservicios", "CI/CD"],
     datoCurioso: "Cuando no estoy programando, probablemente esté explorando nuevas " +
-                 "librerías o experimentando con visualizaciones de datos "
+                 "librerías o experimentando con visualizaciones de datos 📊"
 };
 ```
 
 ---
 
-## ️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-###  Lenguajes de Programación
+### 💻 Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -59,28 +59,28 @@ const juanDavid = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-###  Backend Development
+### 🔧 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ️ Bases de Datos
+### 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-###  Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-###  DevOps & Tools
+### 🚀 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -88,7 +88,7 @@ const juanDavid = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### ️ Arquitecturas & Patrones
+### 🏗️ Arquitecturas & Patrones
 ![MVC](https://img.shields.io/badge/MVC-FF6C37?style=for-the-badge&logo=architecture&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)
@@ -97,7 +97,7 @@ const juanDavid = {
 
 ---
 
-##  Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -116,7 +116,7 @@ const juanDavid = {
 
 ---
 
-##  Logros de GitHub
+## 🏆 Logros de GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=davidllanos31&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
@@ -124,7 +124,7 @@ const juanDavid = {
 
 ---
 
-##  Experiencia Profesional
+## 💼 Experiencia Profesional
 
 ```python
 class ExperienciaProfesional:
@@ -154,11 +154,11 @@ class ExperienciaProfesional:
 
 ---
 
-##  Proyectos Destacados
+## 🎯 Proyectos Destacados
 
 <div align="center">
 
-###  Proyectos Profesionales
+### 💼 Proyectos Profesionales
 
 <table>
   <tr>
@@ -167,7 +167,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=TechDocAPI&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="TechDocAPI"/>
       </a>
       <br/>
-      <p><strong> TechDocAPI</strong></p>
+      <p><strong>🚢 TechDocAPI</strong></p>
       <p>Sistema API RESTful para gestión de documentación técnica de sistemas instalados en embarcaciones marítimas.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -180,7 +180,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=DollarToyProyectoG3&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DollarToy"/>
       </a>
       <br/>
-      <p><strong>️ Dollar Toy Project</strong></p>
+      <p><strong>🛍️ Dollar Toy Project</strong></p>
       <p>Proyecto final - Sistema de gestión para tienda de juguetes con carrito de compras y panel administrativo.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -195,7 +195,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Index-Pcs&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Index-Pcs"/>
       </a>
       <br/>
-      <p><strong> Index Peru Controls</strong></p>
+      <p><strong>🏢 Index Peru Controls</strong></p>
       <p>Portal de acceso para usuarios y clientes de Peru Controls System con enlaces a servicios y recursos.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -208,7 +208,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=nodejs&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Node.js"/>
       </a>
       <br/>
-      <p><strong> Node.js Projects</strong></p>
+      <p><strong>🟢 Node.js Projects</strong></p>
       <p>Colección de proyectos y prácticas con Node.js, Express y APIs RESTful.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
@@ -219,7 +219,7 @@ class ExperienciaProfesional:
   </tr>
 </table>
 
-###  Proyectos Creativos & Frontend
+### 🎨 Proyectos Creativos & Frontend
 
 <table>
   <tr>
@@ -228,7 +228,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Carta_Romantica&theme=radical&hide_border=true&bg_color=0d1117" alt="Carta Romántica"/>
       </a>
       <br/>
-      <p><strong> Carta Romántica</strong></p>
+      <p><strong>💌 Carta Romántica</strong></p>
       <p>Proyecto web interactivo con animaciones CSS y diseño romántico.</p>
       <p>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -240,7 +240,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=floresamarillas&theme=radical&hide_border=true&bg_color=0d1117" alt="Flores Amarillas"/>
       </a>
       <br/>
-      <p><strong> Flores Amarillas</strong></p>
+      <p><strong>🌻 Flores Amarillas</strong></p>
       <p>Animación web interactiva con diseño floral y efectos visuales.</p>
       <p>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -254,7 +254,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=carta_mama&theme=radical&hide_border=true&bg_color=0d1117" alt="Carta Mamá"/>
       </a>
       <br/>
-      <p><strong> Carta para Mamá</strong></p>
+      <p><strong>💝 Carta para Mamá</strong></p>
       <p>Una carta especial desarrollada con JavaScript, HTML y CSS con animaciones.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -267,7 +267,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Pagina-Web&theme=radical&hide_border=true&bg_color=0d1117" alt="Página Web"/>
       </a>
       <br/>
-      <p><strong> Página Web Portfolio</strong></p>
+      <p><strong>🌐 Página Web Portfolio</strong></p>
       <p>Portfolio personal desarrollado con HTML y CSS responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -294,7 +294,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=java2&theme=merko&hide_border=true&bg_color=0a0f0d" alt="Java Docker"/>
       </a>
       <br/>
-      <p><strong> Java + Docker</strong></p>
+      <p><strong>🐳 Java + Docker</strong></p>
       <p>Containerización con Docker</p>
     </td>
     <td width="33%" align="center">
@@ -302,7 +302,7 @@ class ExperienciaProfesional:
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidllanos31&repo=Grupo3JQuery&theme=merko&hide_border=true&bg_color=0a0f0d" alt="jQuery Project"/>
       </a>
       <br/>
-      <p><strong> jQuery Project</strong></p>
+      <p><strong>📚 jQuery Project</strong></p>
       <p>Proyecto con jQuery y JavaScript</p>
     </td>
   </tr>
@@ -320,11 +320,11 @@ class ExperienciaProfesional:
 
 ---
 
-##  Actividad de Desarrollo
+## 📈 Actividad de Desarrollo
 
 <div align="center">
 
-###  Análisis de Contribuciones
+### 🔥 Análisis de Contribuciones
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidllanos31&theme=github_dark" alt="Profile Details" width="100%"/>
 
@@ -340,7 +340,7 @@ class ExperienciaProfesional:
 
 <br/><br/>
 
-###  Contribuciones Animadas
+### 🐍 Contribuciones Animadas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidllanos31/davidllanos31/output/github-contribution-grid-snake-dark.svg">
@@ -352,7 +352,7 @@ class ExperienciaProfesional:
 
 ---
 
-##  Conéctate Conmigo
+## 🌐 Conéctate Conmigo
 
 <div align="center">
   
@@ -365,7 +365,7 @@ class ExperienciaProfesional:
 
 ---
 
-##  Frase que me Inspira
+## 💡 Frase que me Inspira
 
 <div align="center">
   
@@ -375,11 +375,11 @@ class ExperienciaProfesional:
 
 ---
 
-##  Información de Contacto
+## 📫 Información de Contacto
 
 ```yaml
 nombre: Juan David Llanos Pedraza
-ubicacion: Lima, Perú 
+ubicacion: Lima, Perú 🇵🇪
 rol: Software Engineer
 email: juandavidllanosp@gmail.com
 linkedin: linkedin.com/in/juan-david-llanos-pedraza-a4706628a/
@@ -390,7 +390,7 @@ disponibilidad: Abierto a colaboraciones y proyectos interesantes
 
 ---
 
-##  Actualmente Aprendiendo
+## 📚 Actualmente Aprendiendo
 
 <div align="center">
 
@@ -406,7 +406,7 @@ disponibilidad: Abierto a colaboraciones y proyectos interesantes
 
 <div align="center">
   
-###  "Siempre hay algo nuevo que aprender, siempre hay un problema interesante que resolver"
+### 💬 "Siempre hay algo nuevo que aprender, siempre hay un problema interesante que resolver"
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
